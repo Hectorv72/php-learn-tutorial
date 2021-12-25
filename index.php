@@ -11,7 +11,7 @@
     
     //=> Primera parte: variables, estructuras de control, arrays, constantes, recorrer arrays, metodos de arrays funciones, interrupción de ejecuciones 
 
-    // echo 'ver comentarios de los archivos <br><br>';
+    echo 'ver comentarios de los archivos <br><br>';
 
     include('./primera_parte/variables.php');
     // include('./primera_parte/estructuras_control.php');
