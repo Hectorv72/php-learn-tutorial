@@ -11,9 +11,9 @@
     
     //=> Primera parte: variables, estructuras de control, arrays, constantes, recorrer arrays, metodos de arrays funciones, interrupción de ejecuciones 
 
-    // echo 'ver comentarios de los archivos <br><br>';
+    echo 'ver comentarios de los archivos <br><br>';
 
-    // include('./primera_parte/variables.php');
+    include('./primera_parte/variables.php');
     // include('./primera_parte/estructuras_control.php');
     // include('./primera_parte/arrays.php');
     // include('./primera_parte/constantes.php');
@@ -24,7 +24,7 @@
     
     //=> Segunda parte: importar archivos, variables por url, variables de formularios, sesiones, abml con base de datos
     
-    include('./segunda_parte/importar_archivos.php');
+    // include('./segunda_parte/importar_archivos.php');
     // include('./segunda_parte/variables_url_get.php');
     // include('./segunda_parte/variables_formulario_post.php');
     // include('./segunda_parte/sesiones.php');
