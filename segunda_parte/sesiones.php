@@ -21,5 +21,4 @@
   
   //=> Ver todas las sesiones guardadas
   // print_r($_SESSION);
-
 ?>

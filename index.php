@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tutorial</title>
 </head>
+
 <body>
   <?php
-    
     //=> Primera parte: variables, estructuras de control, arrays, constantes, recorrer arrays, metodos de arrays funciones, interrupción de ejecuciones 
 
     echo 'ver comentarios de los archivos <br><br>';
@@ -28,8 +29,10 @@
     // include('./segunda_parte/variables_url_get.php');
     // include('./segunda_parte/variables_formulario_post.php');
     // include('./segunda_parte/sesiones.php');
+    include('./segunda_parte/abml/alta.php');
 
     //=> Tercera parte: coockies, clases, objetos
   ?>
 </body>
+
 </html>
